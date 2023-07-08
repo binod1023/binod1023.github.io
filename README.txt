@@ -1,3 +1,9 @@
+## Description of the Project
+This porfolio website consist of the data analysis projects that I completed using Python, SQL server, Tableau, and Power BI. This website has link to the projects.  
+
+## Structure of the Project
+My porfolio website is build on the basis of the HTML formal.  
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
